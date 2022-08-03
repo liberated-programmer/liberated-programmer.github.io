@@ -1,0 +1,20 @@
+html {
+    background-color: #222;
+    color: white;
+    font-family: 'Cascadia Mono', 'Consolas', monospace;
+    min-height: 100vh;
+}
+
+body {
+    max-width: fit-content;
+    margin: 20vh auto;
+    font-size: 2.5vh;
+    height: 60vh;
+}
+
+h1 { font-size: 10vh }
+
+li { list-style-type: none }
+
+a { color: #2a2 }
+a:visited { color: hotpink }
