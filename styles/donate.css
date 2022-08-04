@@ -1,0 +1,11 @@
+.xmr-container { margin: 4vh 0 }
+.xmr-container > * { display: block }
+.xmr-container > img {
+    height: 25vh;
+    width: auto;
+}
+.xmr-container > code {
+    margin-top: 1em;
+    font-size: 0.8em;
+    color: orange;
+}

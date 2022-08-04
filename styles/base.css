@@ -1,0 +1,26 @@
+html {
+    background-color: #222;
+    color: white;
+    font-family: 'Liberation Mono', 'Cascadia Mono', 'Consolas', monospace;
+    min-height: 100vh;
+}
+
+body {
+    height: 70vh;
+    width: 80vw;
+    margin: 15vh auto;
+    font-size: 2.5vh;
+    overflow-wrap: break-word;
+}
+
+h1 { font-size: 10vh }
+
+li { list-style-type: none }
+
+a {
+    color: #2a2;
+    text-decoration: none;
+}
+a:hover { color: #3b3 }
+a:visited { color: #e7b }
+a:visited:hover { color: #f8c }
