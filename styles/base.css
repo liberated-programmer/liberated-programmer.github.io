@@ -15,7 +15,8 @@ body {
 
 h1 { font-size: 10vh }
 
-li { list-style-type: none }
+main { padding-left: 0.5em }
+main * { padding-left: 0 }
 
 a {
     color: #2a2;
