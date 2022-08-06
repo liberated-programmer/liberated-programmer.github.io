@@ -8,7 +8,7 @@ html {
 body {
     height: 70vh;
     width: 80vw;
-    margin: 15vh auto;
+    margin: auto;
     font-size: 2.5vh;
     overflow-wrap: break-word;
 }
