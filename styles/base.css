@@ -19,9 +19,7 @@ main { padding-left: 0.5em }
 main * { padding-left: 0 }
 
 a {
-    color: #2a2;
+    color: #e7b;
     text-decoration: none;
 }
-a:hover { color: #3b3 }
-a:visited { color: #e7b }
-a:visited:hover { color: #f8c }
+a:hover { color: #f8c }
